@@ -2,7 +2,7 @@
 
 actions=["+","-","*","/","к","ст"]
 
-string=input("пример: ")
+# string=input("пример: ")
 
 def act_str(input_string):
     for item in actions:
